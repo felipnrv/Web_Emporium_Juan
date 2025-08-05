@@ -1,0 +1,7 @@
+{
+  "name": "VisorX: Conversational Financial AI",
+  "description": "A conversational financial intelligence assistant powered by Gemini. Ask any question about stocks, markets, or economic trends, and get answers grounded in real-time information from Google Search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
